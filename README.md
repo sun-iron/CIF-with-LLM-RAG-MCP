@@ -1,4 +1,4 @@
-# CIF(Conversational Integration Framework) with LLM, RAG, MCP
+# IIF(Interactive Integration Framework) with LLM, RAG, MCP, NL2SQL
 
 ## Project Overview
 
