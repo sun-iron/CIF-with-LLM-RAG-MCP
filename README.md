@@ -4,10 +4,14 @@
 
 This project originates from the growing need for specialized technical knowledge within enterprise systems, especially in the fast-evolving world of technology. While generative AI models provide convenient access to information, the differences in types and versions between external AI sources and internal enterprise systems often make it difficult to obtain immediately practical results.
 
+<img width="1028" height="459" alt="image" src="https://github.com/user-attachments/assets/0c2b04ac-f577-4c8d-81d5-8758398ff22e" />
+
 To address this, we propose an interactive framework that integrates the following components:
 - An on-premises LLM (Large Language Model) tailored for enterprise environments
 - A RAG (Retrieval Augmented Generation) system powered by a vector database specialized for enterprise data
 - An MCP (Modular Control Platform) that connects seamlessly with internal systems
+
+<img width="1703" height="799" alt="image" src="https://github.com/user-attachments/assets/6434bd9a-82a9-4530-9077-9123d3fb0c7b" />
 
 ## Key Features
 
