@@ -10,9 +10,6 @@ To address this, we propose an interactive framework that integrates the followi
 - An on-premises LLM (Large Language Model) tailored for enterprise environments
 - A RAG (Retrieval Augmented Generation) system powered by a vector database specialized for enterprise data
 - An MCP (Modular Control Platform) that connects seamlessly with internal systems
-
-<img width="1703" height="799" alt="image" src="https://github.com/user-attachments/assets/6434bd9a-82a9-4530-9077-9123d3fb0c7b" />
-
 ## Key Features
 
 - **Enterprise-Specific RAG**: Stores and retrieves company technical documents and data using a vector database, enabling accurate and context-aware answers.
@@ -21,6 +18,8 @@ To address this, we propose an interactive framework that integrates the followi
 - **Conversational Interface**: Users can interact using natural language to receive real-time, system-integrated responses.
 
 ## Tested Environment
+
+<img width="1703" height="799" alt="image" src="https://github.com/user-attachments/assets/6434bd9a-82a9-4530-9077-9123d3fb0c7b" />
 
 This project has been tested on a Linux environment using the following technologies:
 - Python-based uv
